@@ -1,0 +1,14 @@
+{
+  "name": "@gmanole01/wcjs-prebuilt",
+  "version": "1.0.0",
+  "description": "Install WebChimera.js pre-built binaries via npm",
+  "main": "index.js",
+  "scripts": {
+    "cache-clean": "rm -rf bin"
+  },
+  "author": "George Manole",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "20.1.3"
+  }
+}
